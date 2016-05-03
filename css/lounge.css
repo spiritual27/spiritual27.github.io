@@ -1,0 +1,16 @@
+p.guarantee{
+	background-image: url(../images/Pencil.png);
+	background-repeat: no-repeat;
+	background-position: top 20px left 20px;
+	background-color: #a7cece;
+	border-color:black;
+	border-width: 2px;
+	border-style: dashed;
+	border-color: #FFFFFF;
+	padding: 5%;
+	width: 30%;
+	height: 10%
+	line-height: 40px;
+	margin: 10px;
+	margin: auto;
+}
