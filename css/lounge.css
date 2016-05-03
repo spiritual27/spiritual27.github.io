@@ -3,6 +3,7 @@ p.guarantee{
 	background-repeat: no-repeat;
 	background-position: top 20px left 20px;
 	background-color: #a7cece;
+	border-radius: 15px;
 	border-color:black;
 	border-width: 2px;
 	border-style: dashed;
